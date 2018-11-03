@@ -1,0 +1,76 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/icomoon.eot?x3du4p');
+  src:  url('../fonts/icomoon.eot?x3du4p#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf?x3du4p') format('truetype'),
+    url('../fonts/icomoon.woff?x3du4p') format('woff'),
+    url('../fonts/icomoon.svg?x3du4p#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+.icon-ccryptobridge:before {
+  content: "\e92c";
+  font-size: 110%;
+
+}
+.icon-cstock:before {
+  content: "\e92d";
+}
+.icon-ubuntu:before {
+  content: "\e934";
+}
+.icon-apple:before {
+  content: "\e935";
+}
+.icon-windows:before {
+  content: "\e936";
+}
+.icon-google:before {
+  content: "\e937";
+}
+.icon-gmail:before {
+  content: "\e938";
+}
+.icon-googlechrome:before {
+  content: "\e939";
+}
+.icon-github:before {
+  content: "\e93a";
+}
+
+.icon-bitcoin:before {
+  content: "\e900";
+}
+.icon-discord:before {
+  content: "\e901";
+}
+.icon-medium:before {
+  content: "\e902";
+}
+.icon-reddit:before {
+  content: "\e903";
+}
+.icon-telegram:before {
+  content: "\e904";
+}
+.icon-twitter:before {
+  content: "\e905";
+}

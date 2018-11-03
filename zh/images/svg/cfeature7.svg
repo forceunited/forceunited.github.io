@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 129.3 133.3">
+  <title>cfeature7</title>
+  <g id="Livello_2" data-name="Livello 2">
+    <g id="SECURE_AND_PRIVATE" data-name="SECURE AND PRIVATE">
+      <g>
+        <g>
+          <polygon points="64.6 133.2 129 100 64.7 66.7 0.3 100 64.6 133.2" style="fill: #215572;fill-opacity: 0.15;stroke: #f2f2f2;stroke-opacity: 0.8;stroke-width: 0.25px"/>
+          <polygon points="129 100 64.6 66.7 64.7 0.2 129 33.5 129 100" style="fill: #2a8fbc;fill-opacity: 0.1;stroke: #f2f2f2;stroke-opacity: 0.78;stroke-width: 0.25px"/>
+          <polygon points="0.3 100 64.7 66.7 64.7 0.2 0.3 33.5 0.3 100" style="fill: #247996;fill-opacity: 0.13;stroke: #f2f2f2;stroke-opacity: 0.8;stroke-width: 0.25px"/>
+        </g>
+        <g id="g2306">
+          <path id="line2125" d="M61.9,52.4V64.2H29.8V82h5.3V70.1H51.4V82h4.9V70.1H72.8V82h4.8V70.1H93.9V82h5.4V64.2H67.2V52.4Z" style="fill: #d6276e;opacity: 0.8300000000000001;isolation: isolate"/>
+          <circle id="circle2113" cx="96.6" cy="89.2" r="4.8" style="fill: #fbaa6b"/>
+          <circle id="circle2115" cx="75.2" cy="89.2" r="4.8" style="fill: #fbaa6b"/>
+          <circle id="circle2117" cx="53.3" cy="89.2" r="4.8" style="fill: #fbaa6b"/>
+          <circle id="circle2119" cx="64.5" cy="44.7" r="5.7" style="fill: none;stroke: #fbaa6b;stroke-miterlimit: 10;stroke-width: 8px"/>
+          <circle id="circle2121" cx="32.4" cy="89.2" r="4.8" style="fill: #fbaa6b"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,45 @@
+/*
+
+Theme Name: Luxury
+Theme URI: http://themeforest.net/user/Medhati/portfolio
+Author: Medhati
+Author URI: http://medhati.com
+Description: Luxury minimal & Coming soon bootstrap template
+Version: 1.0
+License: ThemeForest Regular & Extended License
+License URI: http://themeforest.net/licenses/regular_extended
+
+[Table of contents]
+1. Typography ---------------- #line 186
+2. Background ---------------- #line 335
+3. Preloader ----------------- #line 390
+4. Progress ------------------ #line 558
+5. Button -------------------- #line 564
+6. Alert --------------------- #line 714
+7. Feature box --------------- #line 738
+8. Special Button ------------ #line 752
+9. Form ---------------------- #line 868
+10. Notification ------------- #line 958
+11. Contact form ------------- #line 988
+12. Modal -------------------- #line 1014
+13. Table -------------------- #line 1048
+14. Portfolio ---------------- #line 1078
+15. Team --------------------- #line 1100
+16. Countdown Timer ---------- #line 1154
+*/
+// Import Bootstrap Compass integration
+///////////@import "bootstrap-compass";
+// Import Bootstrap for Sass
+//@import "bootstrap";
+
+
+// change this for custom
+@import "variables";
+@import "mixin";
+// Import Template SASS
+@import "base";
+@import "global";
+@import "typography";
+@import "backgrounds";
+@import "elements";
+
