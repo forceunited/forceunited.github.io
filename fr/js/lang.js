@@ -117,7 +117,7 @@ var arrLang = {
       "Low Latency": "Faible latence",
 "Text10": "Les chaînes de routage des Hop nodes peuvent être personnalisées pour créer des chemins de réseau rapides et à faible latence à l'aide de données d'emplacement de nœud approximatives. Pour un anonymat ultime, le routage prenant en compte l'emplacement est facultatif.",
       "Censorship Resistance": "Résistance à la censure",
-      "Text11": "Avec Force, les utilisateurs et les hôtes IP / métadonnées sont complètement cachés les uns des autres. Cela protège les hôtes contre la découverte, les données contre la censure et les utilisateurs anonymes."
+      "Text11": "Avec Force, les utilisateurs et les hôtes IP / métadonnées sont complètement cachés les uns des autres. Cela protège les hôtes contre la découverte, les données contre la censure et les utilisateurs anonymes.",
 "Expandable Protocols": "Protocoles extensibles",
       "Text12": "Le réseau Force prend en charge les protocoles de routage développés par la communauté, qui permettent d’encapsuler les données utiles dans un nombre infini de façons. Ces protocoles s’appuient sur l’architecture de routage flexible pour fournir des capacités de réseau supplémentaires et permettre de distinguer le trafic des autres types d’utilisation d’Internet.",
       "REVENUE GENERATION": "GÉNÉRATION DE REVENUS",
